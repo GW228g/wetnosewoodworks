@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wet Nose Woodworks",
     "description": "",
-    "home_page_url": "https://gw228g.github.io/wetnosewoodworks",
-    "feed_url": "https://gw228g.github.io/wetnosewoodworks/feed.json",
+    "home_page_url": "https://www.wetnosewoodworks.com",
+    "feed_url": "https://www.wetnosewoodworks.com/feed.json",
     "user_comment": "",
-    "icon": "https://gw228g.github.io/wetnosewoodworks/media/website/drawing.jpg",
+    "icon": "https://www.wetnosewoodworks.com/media/website/drawing.jpg",
     "author": {
         "name": "TestingBrand"
     },

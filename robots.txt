@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://gw228g.github.io/wetnosewoodworks/sitemap.xml
+Sitemap: https://www.wetnosewoodworks.com/sitemap.xml
