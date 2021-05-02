@@ -3,12 +3,62 @@
     <title>Wet Nose Woodworks</title>
     <link href="https://www.wetnosewoodworks.com/feed.xml" rel="self" />
     <link href="https://www.wetnosewoodworks.com" />
-    <updated>2021-05-02T10:32:07-04:00</updated>
+    <updated>2021-05-02T11:12:02-04:00</updated>
     <author>
         <name>TestingBrand</name>
     </author>
     <id>https://www.wetnosewoodworks.com</id>
 
+    <entry>
+        <title>Signs for the workout space</title>
+        <author>
+            <name>TestingBrand</name>
+        </author>
+        <link href="https://www.wetnosewoodworks.com/signs-for-the-workout-space/index.html"/>
+        <id>https://www.wetnosewoodworks.com/signs-for-the-workout-space/index.html</id>
+
+        <updated>2021-05-02T11:12:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.wetnosewoodworks.com/media/posts/3/2peloton.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.wetnosewoodworks.com/media/posts/3/2peloton.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://www.wetnosewoodworks.com/media/posts/3/gallery/2peloton-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://www.wetnosewoodworks.com/media/posts/3/gallery/2peloton-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://www.wetnosewoodworks.com/media/posts/3/gallery/1peloton-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://www.wetnosewoodworks.com/media/posts/3/gallery/1peloton-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://www.wetnosewoodworks.com/media/posts/3/gallery/3peloton-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://www.wetnosewoodworks.com/media/posts/3/gallery/3peloton-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://www.wetnosewoodworks.com/media/posts/3/gallery/4peloton-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://www.wetnosewoodworks.com/media/posts/3/gallery/4peloton-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bird Feeder</title>
+        <author>
+            <name>TestingBrand</name>
+        </author>
+        <link href="https://www.wetnosewoodworks.com/bird-feeder/index.html"/>
+        <id>https://www.wetnosewoodworks.com/bird-feeder/index.html</id>
+
+        <updated>2021-05-02T10:43:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.wetnosewoodworks.com/media/posts/2/bird-feeder.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.wetnosewoodworks.com/media/posts/2/bird-feeder.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.wetnosewoodworks.com/media/posts/2/bird-feeder-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.wetnosewoodworks.com/media/posts/2/responsive/bird-feeder-2-xs.jpg 300w ,https://www.wetnosewoodworks.com/media/posts/2/responsive/bird-feeder-2-sm.jpg 480w ,https://www.wetnosewoodworks.com/media/posts/2/responsive/bird-feeder-2-md.jpg 768w ,https://www.wetnosewoodworks.com/media/posts/2/responsive/bird-feeder-2-lg.jpg 1024w"  alt="" width="4032" height="3024"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dining Room Bench</title>
         <author>
@@ -17,7 +67,7 @@
         <link href="https://www.wetnosewoodworks.com/dining-room-bench/index.html"/>
         <id>https://www.wetnosewoodworks.com/dining-room-bench/index.html</id>
 
-        <updated>2021-05-02T10:32:07-04:00</updated>
+        <updated>2021-05-02T10:39:28-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.wetnosewoodworks.com/media/posts/1/1bench.jpg" alt="" />
